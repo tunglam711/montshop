@@ -411,3 +411,29 @@ p{
 	width:100%;
 	float:left;
 	}
+.news{
+	width:96%;
+	float:left;
+	padding:5px 3px 5px 7px;
+	background:#f3f3f3;
+	margin-top:16px;
+	margin-bottom:16px;
+	margin-left:1.2%;
+	box-shadow:0px 1px 2px #333;
+}
+.new_left{
+	width:25%;
+	float:left;
+	}
+.new_left img{
+	width:80%;
+	float:left;
+	}
+.new_right{
+	width:70%;
+	float:left;
+	}
+.new_right a{
+	color:#990;
+	text-decoration: none;
+}
